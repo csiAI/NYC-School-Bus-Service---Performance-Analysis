@@ -13,16 +13,17 @@ KPIs & Insights:
 
     Average Delay Time: 37 minutes.
     
-    Delay Causes:
-
-      Heavy Traffic: 67%
-      Mechanical Problems: 6%
-     
+    
     Delay Frequency:
 
       Highest in 16-30 min range (80K occurrences)
       31-45 min delays also frequent (75K occurrences)
       Most delays fall in the 16-45 minute range, suggesting systemic issues beyond occasional traffic.
+
+    Delay Causes:
+
+      Heavy Traffic: 67%
+      Mechanical Problems: 6%
 
 
     Accumulated Delay Times:
