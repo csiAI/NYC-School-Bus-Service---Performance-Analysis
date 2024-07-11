@@ -10,40 +10,40 @@ This analysis of NYC School Bus Service performance reveals significant challeng
 KPIs & Insights:
 
     Average Delay Time: 37 minutes
-    Insight: This substantial average delay likely impacts student attendance and parental satisfaction.
+    This substantial average delay likely impacts student attendance and parental satisfaction.
     Delay Causes:
 
-      Heavy Traffic: 27%
+      Heavy Traffic: 67%
       Mechanical Problems: 6%
      
     Delay Frequency:
 
       Highest in 16-30 min range (80K occurrences)
       31-45 min delays also frequent (75K occurrences)
-      Insight: Most delays fall in the 16-45 minute range, suggesting systemic issues beyond occasional traffic.
+      Most delays fall in the 16-45 minute range, suggesting systemic issues beyond occasional traffic.
 
 
     Accumulated Delay Times:
     
-      Peak in 2021 (1025 days), declining to 303 days in 2023
-      Insight: While improving, accumulated delays remain significant.
+      Peak in 2022 (1025 days), declining to 303 days in 2023
+      While improving, accumulated delays remain significant.
       Geographic Impact:
 
       Manhattan (771 days) and Brooklyn (612 days) most affected
-      Insight: Focus on these boroughs could yield the highest impact.
+      Focus on these boroughs could yield the highest impact.
 
 
     Mechanical Issues:
 
       Top 2 companies: BORO TRANS (3935 incidents) PRIDE TRANS (3105 incidents).
-      Insight: Theses companies require immediate attention for fleet maintenance.
+      Theses companies require immediate attention for fleet maintenance.
 
 
     Day of Week Performance:
 
       Mondays show highest breakdown rate (22.7%)
       Gradual improvement through the week
-      Insight: Enhanced preparation for Monday operations could improve weekly performance.
+      Enhanced preparation for Monday operations could improve weekly performance.
 
 
 
