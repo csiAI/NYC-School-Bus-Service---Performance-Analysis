@@ -11,7 +11,7 @@ This analysis of NYC School Bus Service performance reveals significant challeng
 
 KPIs & Insights:
 
-    Average Delay Time: 37 minutes. This substantial average delay likely impacts student attendance and parental satisfaction.
+    Average Delay Time: 37 minutes.
     
     Delay Causes:
 
