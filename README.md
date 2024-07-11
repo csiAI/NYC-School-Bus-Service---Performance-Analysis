@@ -32,7 +32,7 @@ KPIs and Insights:
       Insight: While improving, accumulated delays remain significant.
       Geographic Impact:
 
-    Manhattan (771 days) and Brooklyn (612 days) most affected
+      Manhattan (771 days) and Brooklyn (612 days) most affected
       Insight: Focus on these boroughs could yield the highest impact.
 
 
@@ -67,14 +67,7 @@ Recommendations:
     Delay Reduction Strategy:
 
       Focus on Manhattan and Brooklyn for targeted improvements.
-      Investigate and address the high percentage of "Other" delays.
-
-
-    Data-Driven Decision Making:
-
-      Enhance data collection to better understand the "Other" delay category.
-      Implement a real-time dashboard for rapid response to emerging issues.
-
+      
 
     Stakeholder Communication:
 
