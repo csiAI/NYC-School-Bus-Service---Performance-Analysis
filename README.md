@@ -6,7 +6,6 @@ The project file can be found here: https://docs.google.com/spreadsheets/d/139-A
 ![image](https://github.com/csiAI/NYC-School-Bus-Service---Performance-Analysis/assets/113176347/5ba0eddb-59f4-4b57-9013-d8c2ad68afab)
 
 Summary:
-
     This analysis reveals significant challenges in service reliability and efficiency. Key findings include high delay frequencies, substantial accumulated delay times, and notable mechanical issues across bus companies. 
 
 KPIs & Insights:
@@ -80,5 +79,4 @@ Recommendations:
 
 
 Conclusion:
-
     While the NYC School Bus Service faces significant challenges, the data suggests areas where targeted interventions can lead to substantial improvements. By focusing on reducing delays, enhancing mechanical reliability, and optimizing routes, particularly in high-       impact areas, the service can significantly enhance its performance and reliability for New York City's students and families.
