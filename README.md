@@ -7,7 +7,7 @@ Summary:
 
 This analysis of NYC School Bus Service performance reveals significant challenges in service reliability and efficiency. Key findings include high delay frequencies, substantial accumulated delay times, and notable mechanical issues across bus companies. 
 
-KPIs and Insights:
+KPIs & Insights:
 
     Average Delay Time: 37 minutes
     Insight: This substantial average delay likely impacts student attendance and parental satisfaction.
@@ -15,10 +15,7 @@ KPIs and Insights:
 
       Heavy Traffic: 27%
       Mechanical Problems: 6%
-      Other: 67%
-      Insight: While traffic is a significant factor, the high percentage of "Other" delays warrants further investigation.
-
-
+     
     Delay Frequency:
 
       Highest in 16-30 min range (80K occurrences)
@@ -38,8 +35,8 @@ KPIs and Insights:
 
     Mechanical Issues:
 
-      Top company: BORO TRANS (3935 incidents)
-      Insight: This company requires immediate attention for fleet maintenance.
+      Top 2 companies: BORO TRANS (3935 incidents) PRIDE TRANS (3105 incidents).
+      Insight: Theses companies require immediate attention for fleet maintenance.
 
 
     Day of Week Performance:
@@ -56,18 +53,14 @@ Recommendations:
 
       Collaborate with city traffic department to optimize bus routes.
       Implement real-time traffic monitoring for dynamic route adjustments.
+      Focus on Manhattan and Brooklyn for targeted improvements.
 
 
     Mechanical Reliability:
 
-      Conduct a comprehensive audit of BORO TRANS and other high-incident companies.
+      Conduct a comprehensive audit of BORO TRANS, PRIDE TRANS and other high-incident companies.
       Implement stricter preventative maintenance schedules, especially before Mondays.
 
-
-    Delay Reduction Strategy:
-
-      Focus on Manhattan and Brooklyn for targeted improvements.
-      
 
     Stakeholder Communication:
 
