@@ -71,4 +71,7 @@ Recommendations:
 
 Conclusion:
 
-        While the NYC School Bus Service faces significant challenges, the data suggests areas where targeted interventions can lead to substantial improvements. By focusing on reducing delays, enhancing mechanical reliability, and optimizing routes, particularly in high-impact areas, the service can significantly enhance its performance and reliability for New York City's students and families.
+        While the NYC School Bus Service faces significant challenges, the data suggests areas where targeted interventions 
+        can lead to substantial improvements. By focusing on reducing delays, enhancing mechanical reliability, 
+        and optimizing routes, particularly in high-impact areas, the service can significantly enhance 
+        its performance and reliability for New York City's students and families.
