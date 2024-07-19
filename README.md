@@ -5,8 +5,8 @@ I have performed Data Cleaning and Exploratory Data Analysis using SQL. I then c
 
 The csv file with the data can be found here: https://drive.google.com/file/d/1Bq89xxzxvSu-_GNwjIZGt4jgnpVDSymp/view?usp=sharing
 
-![image](https://github.com/user-attachments/assets/bf7722ef-2e94-4efa-93d1-e21e91ae4574)
-![image](https://github.com/user-attachments/assets/ac0c24ae-32e5-4b17-b1a9-f9ad5a238385)
+![image](https://github.com/user-attachments/assets/4a93d9db-1386-47ce-83d6-333487f68891)
+![image](https://github.com/user-attachments/assets/e051df29-5b7c-45d3-ab39-d20e72e11936)
 
 
 Summary:
