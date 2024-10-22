@@ -23,7 +23,7 @@ The aim of this project is to perform an indepth analysis of the past and curren
 # Data Structure & Initial Checks
 The data was obtained through a cvs file with a total of 250k rows. The csv file with the data can be found [here](https://drive.google.com/file/d/1Bq89xxzxvSu-_GNwjIZGt4jgnpVDSymp/view?usp=sharing)
 
-I have performed Data Cleaning and Exploratory Data Analysis using SQL. The SQL file with the code can be found I then created a dashboard in Tableau. 
+I have performed Data Cleaning and Exploratory Data Analysis using SQL. The SQL file with the code is attached in this repository. I then created a dashboard in Tableau to display the key insights visually.
 
 
 # Executive Summary
