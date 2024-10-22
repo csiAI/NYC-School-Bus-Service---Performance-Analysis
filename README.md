@@ -34,48 +34,42 @@ Overview of Findings
 ![image](https://github.com/user-attachments/assets/4a93d9db-1386-47ce-83d6-333487f68891)
 ![image](https://github.com/user-attachments/assets/e051df29-5b7c-45d3-ab39-d20e72e11936)
 
-This dashboard provides a comprehensive view of NYC school bus service performance, focusing on delays, breakdowns, and geographic distribution of issues. 
-
-
-KPIs & Insights:
-
-    Average Delay Time: 37 minutes.
+Average Delay Time: 37 minutes.
         
-    Delay Frequency:
+Delay Frequency:
 
-      - Highest in 16-30 min range (74K occurrences).
-      - 31-45 min delays also frequent (69K occurrences).
-      - Most delays fall in the 16-45 minute range, suggesting systemic issues beyond occasional traffic.
+- Highest in 16-30 min range (74K occurrences).
+- 31-45 min delays also frequent (69K occurrences).
+- Most delays fall in the 16-45 minute range, suggesting systemic issues beyond occasional traffic.
 
-    Delay Causes:
+Delay Causes:
 
-      - Heavy Traffic: 67%
-      - Mechanical Problems: 5%
-      - Won't Start: 1%
+- Heavy Traffic: 67%
+- Mechanical Problems: 5%
+- Won't Start: 1%
 
-    Accumulated Delay Times:
+Accumulated Delay Times:
     
-      - Peak in 2022 (907 days), declining to 273 days in 2023.
-      - While improving, accumulated delays remain significant.
+- Peak in 2022 (907 days), declining to 273 days in 2023.
+- While improving, accumulated delays remain significant.
       
-    Geographic Impact:
+Geographic Impact:
 
-      - Manhattan (736 days) and Brooklyn (586 days) most affected.
-      - Focus on these boroughs could yield the highest impact.
-
-
-    Mechanical Issues:
-
-      - Top 2 companies: PRIDE TRANS (20.7K incidents) and L&M (16K incidents).
-      - These companies require immediate attention for fleet maintenance.
+- Manhattan (736 days) and Brooklyn (586 days) most affected.
+- Focus on these boroughs could yield the highest impact.
 
 
-    Day of Week Performance:
+Mechanical Issues:
 
-      - Mondays through Wednesdays show highest breakdown rate.
-      - Gradual improvement through the week.
-      - Enhanced preparation for Monday operations could improve weekly performance.
+- Top 2 companies: PRIDE TRANS (20.7K incidents) and L&M (16K incidents).
+- These companies require immediate attention for fleet maintenance.
 
+
+Day of Week Performance:
+
+- Mondays through Wednesdays show highest breakdown rate.
+- Gradual improvement through the week.
+- Enhanced preparation for Monday operations could improve weekly performance.
 Recommendations:
 
     Traffic Management:
