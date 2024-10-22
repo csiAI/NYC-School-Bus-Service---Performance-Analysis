@@ -6,19 +6,19 @@ The NYC School Bus Service is a transportation program managed by the New York C
 
 The aim of this project is to perform an indepth analysis of the past and current performance of the NYC School Bus Service, to understand the challenges it faces and  suggest potential areas of improvement to provide a better service to their users. The key areas of focus include:
 
-- Service Scale: Key numbers showing operational scope
+- Service Scale: Key numbers showing operational scope.
 
-- Delay Analysis: Distribution of delays by time ranges and total count
+- Delay Analysis: Distribution of delays by time ranges and total count.
 
-- Geographic Breakdown: Delay patterns across different boroughs/regions
+- Geographic Breakdown: Delay patterns across different boroughs/regions.
 
-- Annual Trends: Year-over-year comparison of delay times
+- Annual Trends: Year-over-year comparison of delay times.
 
-- Weekly Patterns: Breakdown frequencies across different days of the week
+- Weekly Patterns: Breakdown frequencies across different days of the week.
 
-- Company Performance: Rankings of bus companies by mechanical issues
+- Company Performance: Rankings of bus companies by mechanical issues.
 
-- Cumulative Impact: Total accumulated delays by service provider
+- Cumulative Impact: Total accumulated delays by service provider.
 
 # Data Structure & Initial Checks
 The data was obtained through a CSV file provided by the New York City Department of Education, with a total of 250K rows. The CSV file with the data can be found [here](https://drive.google.com/file/d/1Bq89xxzxvSu-_GNwjIZGt4jgnpVDSymp/view?usp=sharing).
