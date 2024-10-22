@@ -34,7 +34,8 @@ Overview of Findings
 ![image](https://github.com/user-attachments/assets/4a93d9db-1386-47ce-83d6-333487f68891)
 ![image](https://github.com/user-attachments/assets/e051df29-5b7c-45d3-ab39-d20e72e11936)
 
-Average Delay Time: 37 minutes.
+Average Delay Time: 
+- 37 minutes.
         
 Delay Frequency:
 
