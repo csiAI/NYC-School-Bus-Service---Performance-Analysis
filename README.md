@@ -21,15 +21,15 @@ The aim of this project is to perform an indepth analysis of the past and curren
 - Cumulative Impact: Total accumulated delays by service provider
 
 # Data Structure & Initial Checks
-This dashboard provides a comprehensive view of NYC school bus service performance, focusing on delays, breakdowns, and geographic distribution of issues.
+The data was obtained through a cvs file with a total of 250k rows. The csv file with the data can be found [here](https://drive.google.com/file/d/1Bq89xxzxvSu-_GNwjIZGt4jgnpVDSymp/view?usp=sharing)
 
-I have performed Data Cleaning and Exploratory Data Analysis using SQL. I then created a dashboard in Tableau.
+I have performed Data Cleaning and Exploratory Data Analysis using SQL. I then created a dashboard in Tableau. The SQL file with the code can be found here
 
-The csv file with the data can be found [here](https://drive.google.com/file/d/1Bq89xxzxvSu-_GNwjIZGt4jgnpVDSymp/view?usp=sharing)
 
 ![image](https://github.com/user-attachments/assets/4a93d9db-1386-47ce-83d6-333487f68891)
 ![image](https://github.com/user-attachments/assets/e051df29-5b7c-45d3-ab39-d20e72e11936)
 
+This dashboard provides a comprehensive view of NYC school bus service performance, focusing on delays, breakdowns, and geographic distribution of issues. 
 
 Summary:
         This analysis reveals significant challenges in service reliability and efficiency. Key findings include high delay frequencies, substantial accumulated delay times, and notable mechanical issues across bus companies. 
