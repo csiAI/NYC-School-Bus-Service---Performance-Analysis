@@ -30,7 +30,7 @@ I have performed Data Cleaning and Exploratory Data Analysis using SQL. The SQL 
 
 Overview of Findings
 - This analysis reveals significant challenges in service reliability and efficiency. Key findings include high delay frequencies, substantial accumulated delay times, and notable mechanical issues across bus companies.
-- An interactive Tableau dashboard can e found [here](https://public.tableau.com/app/profile/carlos.s.nchez4177/viz/NYCSchoolBusServicePerformanceAnalysis/Dashboard)
+- An interactive Tableau dashboard can e found [here](https://public.tableau.com/app/profile/carlos.s.nchez4177/viz/NYCSchoolBusServicePerformanceAnalysis/Dashboard).
 
 ![image](https://github.com/user-attachments/assets/4a93d9db-1386-47ce-83d6-333487f68891)
 ![image](https://github.com/user-attachments/assets/e051df29-5b7c-45d3-ab39-d20e72e11936)
