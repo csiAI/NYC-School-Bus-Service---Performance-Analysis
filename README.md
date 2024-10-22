@@ -25,6 +25,7 @@ The data was obtained through a cvs file with a total of 250k rows. The csv file
 
 I have performed Data Cleaning and Exploratory Data Analysis using SQL. I then created a dashboard in Tableau. The SQL file with the code can be found here
 
+# Executive Summary
 
 ![image](https://github.com/user-attachments/assets/4a93d9db-1386-47ce-83d6-333487f68891)
 ![image](https://github.com/user-attachments/assets/e051df29-5b7c-45d3-ab39-d20e72e11936)
