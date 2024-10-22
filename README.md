@@ -1,8 +1,9 @@
 # NYC School Bus Service | Performance Analysis
 
-# PROJECT BACKGROUND
+# Project Background
 
 The NYC School Bus Service is a transportation program managed by the New York City Department of Education (DOE) that provides free bus transportation for eligible students attending public, charter, or private schools in the city. The service is designed to ensure that students, particularly those who live far from their schools or have special needs, can safely and reliably commute to and from school.
+
 The aim of this project is to perform an indepth analysis of the past and current performance of the NYC School Bus Service, to understand the challenges it faces and  suggest potential areas of improvement to provide a better service to their users. The key areas of focus include:
 
 - Service Scale: Key numbers showing operational scope
@@ -19,8 +20,7 @@ The aim of this project is to perform an indepth analysis of the past and curren
 
 - Cumulative Impact: Total accumulated delays by service provider
 
-# Dashboard Overview: NYC School Bus Service Performance
-
+# Data Structure & Initial Checks
 This dashboard provides a comprehensive view of NYC school bus service performance, focusing on delays, breakdowns, and geographic distribution of issues.
 
 I have performed Data Cleaning and Exploratory Data Analysis using SQL. I then created a dashboard in Tableau.
