@@ -12,7 +12,7 @@ The aim of this project is to perform an indepth analysis of the past and curren
 
 - Geographic Breakdown: Delay patterns across different boroughs/regions
 
-- Annual Trends: Year-over-year comparison of delays
+- Annual Trends: Year-over-year comparison of delay times
 
 - Weekly Patterns: Breakdown frequencies across different day times
 
