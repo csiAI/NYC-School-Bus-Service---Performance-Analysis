@@ -14,7 +14,7 @@ The aim of this project is to perform an indepth analysis of the past and curren
 
 - Annual Trends: Year-over-year comparison of delays
 
-- Weekly Patterns: Breakdown frequencies across different days
+- Weekly Patterns: Breakdown frequencies across different day times
 
 - Company Performance: Rankings of bus companies by mechanical issues
 
