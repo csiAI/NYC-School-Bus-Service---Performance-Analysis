@@ -21,7 +21,7 @@ The aim of this project is to perform an indepth analysis of the past and curren
 - Cumulative Impact: Total accumulated delays by service provider
 
 # Data Structure & Initial Checks
-The data was obtained through a CSV file provided by the New York City Department of Education, with a total of 250K rows. The csv file with the data can be found [here](https://drive.google.com/file/d/1Bq89xxzxvSu-_GNwjIZGt4jgnpVDSymp/view?usp=sharing).
+The data was obtained through a CSV file provided by the New York City Department of Education, with a total of 250K rows. The CSV file with the data can be found [here](https://drive.google.com/file/d/1Bq89xxzxvSu-_GNwjIZGt4jgnpVDSymp/view?usp=sharing).
 
 I have performed Data Cleaning and Exploratory Data Analysis using SQL. The SQL file with the code is attached in this repository. I then created a dashboard in Tableau to display the key insights visually.
 
