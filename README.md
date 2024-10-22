@@ -70,27 +70,15 @@ Day of Week Performance:
 - Mondays through Wednesdays show highest breakdown rate.
 - Gradual improvement through the week.
 - Enhanced preparation for Monday operations could improve weekly performance.
-Recommendations:
 
-    Traffic Management:
+Key Insights & Recommendations:
 
-      - Collaborate with city traffic department to optimize bus routes.
-      - Implement real-time traffic monitoring for dynamic route adjustments.
-      - Focus on Manhattan and Brooklyn for targeted improvements.
+- Traffic Management: Collaborate with city traffic department to optimize bus routes. Implement real-time traffic monitoring for dynamic route adjustments. Focus on Manhattan and Brooklyn for targeted improvements.
 
-    Mechanical Reliability:
+- Mechanical Reliability: Conduct a comprehensive audit of PRIDE TRANS, L&M and other high-incident companies. Implement stricter preventative maintenance schedules, especially before Mondays.
 
-      - Conduct a comprehensive audit of PRIDE TRANS, L&M and other high-incident companies.
-      - Implement stricter preventative maintenance schedules, especially before Mondays.
-
-    Performance Incentives:
-
-      - Introduce a performance-based contract system for bus companies.
-      - Recognize and reward companies and drivers with the best on-time records.
+- Performance Incentives: Introduce a performance-based contract system for bus companies. Recognize and reward companies and drivers with the best on-time records.
 
 Conclusion:
 
-        While the NYC School Bus Service faces significant challenges, the data suggests areas where targeted interventions 
-        can lead to substantial improvements. By focusing on reducing delays, enhancing mechanical reliability, 
-        and optimizing routes, particularly in high-impact areas, the service can significantly enhance 
-        its performance and reliability for New York City's students and families.
+- While the NYC School Bus Service faces significant challenges, the data suggests areas where targeted interventions can lead to substantial improvements. By focusing on reducing delays, enhancing mechanical reliability, and optimizing routes, particularly in high-impact areas, the service can significantly enhance its performance and reliability for New York City's students and families.
