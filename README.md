@@ -28,52 +28,52 @@ I have performed Data Cleaning and Exploratory Data Analysis using SQL. The SQL 
 
 # Executive Summary
 
-Overview of Findings
+**Overview of Findings:**
 - This analysis reveals significant challenges in service reliability and efficiency. Key findings include high delay frequencies, substantial accumulated delay times, and notable mechanical issues across bus companies.
 - An interactive Tableau dashboard can e found [here](https://public.tableau.com/app/profile/carlos.s.nchez4177/viz/NYCSchoolBusServicePerformanceAnalysis/Dashboard).
 
 ![image](https://github.com/user-attachments/assets/4a93d9db-1386-47ce-83d6-333487f68891)
 ![image](https://github.com/user-attachments/assets/e051df29-5b7c-45d3-ab39-d20e72e11936)
 
-Average Delay Time: 
+**Average Delay Time: **
 - 37 minutes.
         
-Delay Frequency:
+**Delay Frequency:**
 
 - Highest in 16-30 min range (74K occurrences).
 - 31-45 min delays also frequent (69K occurrences).
 - Most delays fall in the 16-45 minute range, suggesting systemic issues beyond occasional traffic.
 
-Delay Causes:
+**Delay Causes:**
 
 - Heavy Traffic: 67%
 - Mechanical Problems: 5%
 - Won't Start: 1%
 
-Accumulated Delay Times:
+**Accumulated Delay Times:**
     
 - Peak in 2022 (907 days), declining to 273 days in 2023.
 - While improving, accumulated delays remain significant.
       
-Geographic Impact:
+**Geographic Impact:**
 
 - Manhattan (736 days) and Brooklyn (586 days) most affected.
 - Focus on these boroughs could yield the highest impact.
 
 
-Mechanical Issues:
+**Mechanical Issues:**
 
 - Top 2 companies: PRIDE TRANS (20.7K incidents) and L&M (16K incidents).
 - These companies require immediate attention for fleet maintenance.
 
 
-Day of Week Performance:
+**Day of Week Performance:**
 
 - Mondays through Wednesdays show highest breakdown rate.
 - Gradual improvement through the week.
 - Enhanced preparation for Monday operations could improve weekly performance.
 
-Key Insights & Recommendations:
+**Key Insights & Recommendations:**
 
 - Traffic Management: Collaborate with city traffic department to optimize bus routes. Implement real-time traffic monitoring for dynamic route adjustments. Focus on Manhattan and Brooklyn for targeted improvements.
 
@@ -81,6 +81,6 @@ Key Insights & Recommendations:
 
 - Performance Incentives: Introduce a performance-based contract system for bus companies. Recognize and reward companies and drivers with the best on-time records.
 
-Conclusion:
+**Conclusion:**
 
 - While the NYC School Bus Service faces significant challenges, the data suggests areas where targeted interventions can lead to substantial improvements. By focusing on reducing delays, enhancing mechanical reliability, and optimizing routes, particularly in high-impact areas, the service can significantly enhance its performance and reliability for New York City's students and families.
